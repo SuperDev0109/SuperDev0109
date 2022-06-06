@@ -1,49 +1,107 @@
-<meta name="awesome-portfolio"/>
-<meta name="portfolio"/>
-<meta name="github"/>
-<meta name="full-stack"/>
+### Hello, there  
+  [<img align="left" alt="Techrate | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+  [<img align="left" alt="Techrate | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+  <img src="https://komarev.com/ghpvc/?username=superdev0109&label=Profile%20views&color=0e75b6&style=flat" alt="superdev0109" />
+  
+  [gmail]: mailto:superdev0109@outlook.com
+  [telegram]: https://t.me/snoopydev
+  
+  Hi, I'm 🥇[SuperDev](https://t.me/snoopydev/)🥇 , As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
 
-<img align="right" alt="awesome-github-profile" src="https://github-readme-stats.vercel.app/api?username=SuperDev0109&layout=demo&border_radius=15px&show_icons=true&theme="/>
+My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
 
-# Welcome 
+I have developing sites using PHP, Laravel, WordPress, Codeigniter, and Python/Django/Flask, and much more.
 
-## :smile: Stay smiling and :book: keep coding.
+Especially I have rich experience with the latest Javascript frameworks such as Node/Express, React, Angular, and Vue.
 
-🚀 A Professional Full-stack and Blockchain Developer
-<br/><br/>
+I had already built so many Websites with the mentioned skill.
 
-<p align="left">
- <img src="https://iconape.com/wp-content/png_logo_vector/solidity.png" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://www.svgrepo.com/show/353715/ethereum.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://cryptologos.cc/logos/bitcoin-cash-bch-logo.svg?v=018" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=018" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://www.returngis.net/wp-content/uploads/2019/05/logo-metamask-1.png" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="javascript-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/angular.png" alt="angular-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
- <img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/vue.png" alt="vue-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
- <img src="https://www.theconsolelogs.com/react/redux.svg" alt="redux-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://img.icons8.com/color/344/css3.png" alt="css3-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://img.icons8.com/color/344/html-5.png" alt="html5-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/bootstrap.png" alt="bootstrap-github-profile-awesome-beautiful" width="35" height="37" style="visibility: visible;">
- <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws-github-profile-awesome-beautiful" width="40" height="40"/>  
- <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack-github-profile-awesome-beautiful" width="40" height="40"/>  
- <img src="https://www.vectorlogo.zone/logos/ghost/ghost-icon.svg" alt="ghost-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby-github-profile-awesome-beautiful" width="40" height="40"/>
- <img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/jquery.png" alt="jquery-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
- <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
- <span>...</span>
-</p>
-<br/>
-<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=trusteddev1409&langs_count=8&layout=compact&card_width=495px&border_radius=20px&show_icons=true&theme=" alt="beautiful-github-profile-hi-with-handshake"/>
+And I have rich experience with YieldFarming and Dex platforms like Pancakeswap Finance, Olympus Dao, SushiSwap, Uniswap, Tomb Finance, Titano .
 
 
-## :fire: Let's work harder to build a beautiful :earth_americas:
-## :two_men_holding_hands: Together!
+ <div>
+  <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="320" />
+</div>
 
+
+### Connect with me:
+
+- 💬 Telegram : [@snoopydev](https://t.me/snoopydev)
+- 📧 Email : superdev0109@outlook.com
+
+### Languages and Tools:
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+| <a href="https://github.com/superdev0109?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=superdev0109&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Super's github stats" /> </a>| <a href="https://github.com/superdev0109?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superdev0109&layout=compact&theme=buefy&hide_border=true" /> </a> |
+| ------------- | ------------- |
+
+<!--   GitHub stats graph -->
+![superdev0109's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=superdev0109&hide_border=true&theme=github-light)
+
+### My Portfolio:
+
+<table>
+    <thead align="center">
+        <tr>
+            <td>InstantXRP</td>
+            <td>FortCake</td>           
+            <td>OlympusFork</td>
+            <td>ApexFinance</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://instantxrp.finance/" target="_blank">
+                <img src="https://raw.githubusercontent.com/superdev0109/superdev0109/main/Portfolio/metafomos.png" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="http://fortcake-amm.vercel.app/" target="_blank">
+                <img src="https://raw.githubusercontent.com/superdev0109/superdev0109/main/Portfolio/BOM.png" width="200">
+            </a>
+        </td> 
+        <td>
+            <a href="https://app.olympusdao.finance/" target="_blank">
+                <img src="https://raw.githubusercontent.com/superdev0109/superdev0109/main/Portfolio/oxstocks.png" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="https://apx.finance/" target="_blank">
+                <img src="https://raw.githubusercontent.com/superdev0109/superdev0109/main/Portfolio/SATM.png" width="200">
+            </a>
+        </td>                
+    </tr>
+</table>
+
+### 💗 My Favorites Techs:
+
+![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Ruby_On_Rails-informational?style=flat&logo=ruby&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
