@@ -1,4 +1,4 @@
-### Hello, there  
+<h1 align="center">Hi 👋, I'm a Professional Blockchain & Full Stack developer.</h1>
   [<img align="left" alt="Techrate | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
   [<img align="left" alt="Techrate | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
   <img src="https://komarev.com/ghpvc/?username=superdev0109&label=Profile%20views&color=0e75b6&style=flat" alt="superdev0109" />
@@ -26,7 +26,10 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 
 ### Connect with me:
 
-- 💬 Telegram : [@snoopydev](https://t.me/snoopydev)
+- 💬 SkypeID : [live:.cid.f0d117f6fd70c986]
+- 💬 Telegram : [@snoopydev]
+- 💬 Discord : [Snoopy2020#1251]
+- 💬 Whatsapp : [+1 413 655 1258]
 - 📧 Email : superdev0109@outlook.com
 
 ### Languages and Tools:
@@ -53,10 +56,10 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 <table>
     <thead align="center">
         <tr>
-            <td>InstantXRP</td>
-            <td>FortCake</td>           
-            <td>OlympusFork</td>
-            <td>ApexFinance</td>
+            <td>Metafomos</td>
+            <td>BOM</td>           
+            <td>Oxstocks</td>
+            <td>SATM</td>
         </tr>
     </thead>
     <tr>
