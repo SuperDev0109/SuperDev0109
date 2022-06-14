@@ -45,17 +45,25 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-| <a href="https://github.com/Super-Smile/github-readme-stats">
+<p align="center">
+  <a href="https://github.com/Super-Smile/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Super-Smile" src="https://github-readme-streak-stats.herokuapp.com/?user=Super-Smile&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Super-Smile/github-readme-stats">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api?username=Super-Smile&count_private=true&show_icons=true&custom_title=SuperDev0109's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
     />
-   </a>| <a href="https://github.com/Super-Smile/github-readme-stats">
+   </a>
+
+  <a href="https://github.com/Super-Smile/github-readme-stats">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=trusteddev1409&layout=compact&theme=vision-friendly-dark" />
-  </a> |
-| ------------- | ------------- |
+  </a>  
+</p>
 
 <!--   GitHub stats graph -->
 ![superdev0109's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=superdev0109&hide_border=true&theme=github-light)
