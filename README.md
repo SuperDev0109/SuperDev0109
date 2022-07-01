@@ -53,7 +53,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
    </a> <a href="https://github.com/Super-Smile/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=trusteddev1409&layout=compact&theme=buefy&hide_border=true" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Super-Smile&layout=compact&theme=buefy&hide_border=true" />
   </a> 
 
 
